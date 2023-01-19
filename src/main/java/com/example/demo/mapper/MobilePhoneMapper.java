@@ -6,7 +6,7 @@ import org.mapstruct.Mapping;
 
 import com.example.demo.controller.dto.MobilePhoneDto;
 import com.example.demo.entites.MobilePhone;
-
+import  ccom.example.demo.entites.laptop
 @Mapper
 public interface MobilePhoneMapper {
 	    @Mapping(target="color",source="mobilePhone.color")
