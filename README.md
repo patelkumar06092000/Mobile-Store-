@@ -34,4 +34,6 @@ example
 i am executing git command.
 
 naw i am comming to the login branch.
-naw i am coming to signup branch.
+naw i am coming to signup branch. for that we have to write comand below
+  git push --set-upstream origin login
+
